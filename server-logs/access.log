@@ -1,0 +1,4 @@
+200.86.24.178 - - [26/Oct/2013:10:39:48 -0300] "GET / HTTP/1.1" 404 1011 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
+200.86.24.178 - - [26/Oct/2013:10:39:59 -0300] "GET /favicon.ico HTTP/1.1" 200 302 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
+200.86.24.178 - - [26/Oct/2013:10:46:23 -0300] "GET / HTTP/1.1" 404 1011 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
+200.86.24.178 - - [26/Oct/2013:10:46:23 -0300] "GET /favicon.ico HTTP/1.1" 304 185 "-" "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
